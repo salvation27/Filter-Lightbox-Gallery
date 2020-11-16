@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Filter-Lightbox-Gallery/static/css/main.227e2350.chunk.css",
+    "main.js": "/Filter-Lightbox-Gallery/static/js/main.28782850.chunk.js",
+    "main.js.map": "/Filter-Lightbox-Gallery/static/js/main.28782850.chunk.js.map",
+    "runtime-main.js": "/Filter-Lightbox-Gallery/static/js/runtime-main.a6d66420.js",
+    "runtime-main.js.map": "/Filter-Lightbox-Gallery/static/js/runtime-main.a6d66420.js.map",
+    "static/js/2.59b4e6ca.chunk.js": "/Filter-Lightbox-Gallery/static/js/2.59b4e6ca.chunk.js",
+    "static/js/2.59b4e6ca.chunk.js.map": "/Filter-Lightbox-Gallery/static/js/2.59b4e6ca.chunk.js.map",
+    "index.html": "/Filter-Lightbox-Gallery/index.html",
+    "static/css/main.227e2350.chunk.css.map": "/Filter-Lightbox-Gallery/static/css/main.227e2350.chunk.css.map",
+    "static/js/2.59b4e6ca.chunk.js.LICENSE.txt": "/Filter-Lightbox-Gallery/static/js/2.59b4e6ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6d66420.js",
+    "static/js/2.59b4e6ca.chunk.js",
+    "static/css/main.227e2350.chunk.css",
+    "static/js/main.28782850.chunk.js"
+  ]
+}
